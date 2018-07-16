@@ -72,5 +72,5 @@ li{
 	display: block;
 }
 .childNav li:hover .subChildNav{
-	display: block;
+	display: block; 
 }
